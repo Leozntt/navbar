@@ -1,0 +1,51 @@
+body{
+    font-family: Dosis;
+}
+.menu{
+    width: 100%;
+    height: 80px;
+    
+    display: flex;
+    justify-content: center;
+    margin: auto;
+   border-bottom-color: rgb(0, 0, 0);
+}
+header{
+    height: 12%;
+    width: 100%;
+    border:2px rgb(192, 191, 191);
+}
+.container-pa{
+    display: flex;
+    
+    
+}
+.imagen{
+    height: 100%;
+    width: 30%;
+    margin-left: 20px;
+}
+img{
+    height: 70px;
+    margin: 6px 5px 5px 5px;
+
+}
+.conteiner-12{
+    width: 80%;
+    height: 100%;
+    display: flex;
+    justify-content: flex-end;
+    }
+    .conteiner-1{
+        margin: 25px 20px 20px;
+        text-decoration: none;
+        font-size: 20px;
+        flex-direction: row-reverse;
+    }
+    nav{
+        background-color: rgb(212, 214, 214);
+        border-radius: 2px;
+        border-color: black;
+        border: 20px;
+    }
+    
